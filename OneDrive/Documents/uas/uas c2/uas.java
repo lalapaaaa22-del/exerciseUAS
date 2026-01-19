@@ -84,6 +84,7 @@ public class uas {
         }
 
         public void tampilDataUser() {
+            
 
         if ( i == 0) {
             System.out.println("Data belum ada!");
